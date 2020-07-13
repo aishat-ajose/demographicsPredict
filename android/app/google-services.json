@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399343067964",
+    "firebase_url": "https://clarifaitesting.firebaseio.com",
+    "project_id": "clarifaitesting",
+    "storage_bucket": "clarifaitesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399343067964:android:d2e2da3c6d2f5c9021b439",
+        "android_client_info": {
+          "package_name": "com.example.topic_classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399343067964-ss1reh538i84gro3hvpvb3ag7235vqo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRDjTrUHgHxz7BU3fOTCST541FLTeRRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399343067964-ss1reh538i84gro3hvpvb3ag7235vqo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
